@@ -1,4 +1,4 @@
-# SVG-CREATOR  [![License: MPL 2.0](https://img.shields.io/badge/License-MPL_2.0-brightgreen.svg)](https://opensource.org/licenses/MPL-2.0)
+# NOTE-TAKER  [![License: MPL 2.0](https://img.shields.io/badge/License-MPL_2.0-brightgreen.svg)](https://opensource.org/licenses/MPL-2.0)
 
 The purpose of this project was to modify the code given to us to allow the javascript on the front end to interact with a database that will allow a user to save a note (with a title and body), recall that saved note, and as a bonus delete a given note. This will all be put together and then deployed using Heroku to allow the web page to be live and use the code to store the users input and chosen saves.
 
